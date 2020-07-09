@@ -1,0 +1,17 @@
+{
+  "name": "recursive-github-profile",
+  "version": "1.0.0",
+  "description": "Make amazing recursive profiles on github automatically",
+  "bin": {
+    "recursive-github": "./bin/recurseProfile.js"
+  },
+  "main": "bin/recurseProfile.js",
+  "repository": "git@github.com:hill/recursive-github-profile.git",
+  "author": "Tom Hill <tomhill98@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^4.0.3",
+    "puppeteer": "^5.0.0",
+    "yargs": "^15.4.0"
+  }
+}
