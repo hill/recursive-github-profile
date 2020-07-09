@@ -1,6 +1,8 @@
 # Recursive github profiles
 
-> Inception baaabbbyyy
+> What is the best use of my time right now? Yes this.
+
+> A github profile, inside a github profile, inside a github profile ... I am the DiCaprio of the software industry.
 
 Quick utility to create recursive github profiles.
 Like [my one](http://github.com/hill):
