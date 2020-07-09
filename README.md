@@ -17,3 +17,9 @@ Like [my one](http://github.com/hill):
 4. Set up a base case by publishing a `README.md`
 6. in your profile repo run `recursive-github -u <your username> -d <depth of the recursion>`
 7. Done!
+
+## Inspired by
+
+This tweet:
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"> <a href="https://t.co/QynCorGam4">pic.twitter.com/QynCorGam4</a></p>&mdash; ᴹᶦᵏᵉ (@mikekavouras) <a href="https://twitter.com/mikekavouras/status/1265796303595941894?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
