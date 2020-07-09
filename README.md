@@ -3,9 +3,9 @@
 > Inception baaabbbyyy
 
 Quick utility to create recursive github profiles.
-Like (my one)[http://github.com/hill]:
+Like [my one](http://github.com/hill):
 
-!(Wow look at this amazing thing!)[./screenshot-1.png]
+![Wow look at this amazing thing!](./screenshot-1.png)
 
 ## How to use
 
